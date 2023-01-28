@@ -52,6 +52,9 @@ body {
     background-color: #116483;
     padding: 5px;
 }
+.card :hover{
+    cursor: pointer;
+}
 
 .card img {
     width: 100%;
